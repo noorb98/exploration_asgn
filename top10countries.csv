@@ -1,0 +1,111 @@
+country,food_category,consumption,co2_emmission
+Argentina,Pork,10.51,37.2
+Argentina,Poultry,38.66,41.53
+Argentina,Beef,55.48,1712.0
+Argentina,Lamb & Goat,1.56,54.63
+Argentina,Fish,4.36,6.96
+Argentina,Eggs,11.39,10.46
+Argentina,Milk - inc. cheese,195.08,277.87
+Argentina,Wheat and Wheat Products,103.11,19.66
+Argentina,Rice,8.77,11.22
+Argentina,Soybeans,0.0,0.0
+Argentina,Nuts inc. Peanut Butter,0.49,0.87
+Australia,Pork,24.14,85.44
+Australia,Poultry,46.12,49.54
+Australia,Beef,33.86,1044.85
+Australia,Lamb & Goat,9.87,345.65
+Australia,Fish,17.69,28.25
+Australia,Eggs,8.51,7.82
+Australia,Milk - inc. cheese,234.49,334.01
+Australia,Wheat and Wheat Products,70.46,13.44
+Australia,Rice,11.03,14.12
+Australia,Soybeans,0.19,0.09
+Australia,Nuts inc. Peanut Butter,8.73,15.45
+Albania,Pork,10.88,38.51
+Albania,Poultry,13.23,14.21
+Albania,Beef,22.5,694.3
+Albania,Lamb & Goat,15.32,536.5
+Albania,Fish,3.85,6.15
+Albania,Eggs,12.45,11.44
+Albania,Milk - inc. cheese,303.72,432.62
+Albania,Wheat and Wheat Products,138.64,26.44
+Albania,Rice,7.78,9.96
+Albania,Soybeans,0.0,0.0
+Albania,Nuts inc. Peanut Butter,4.36,7.72
+Iceland,Pork,21.69,76.77
+Iceland,Poultry,26.87,28.86
+Iceland,Beef,13.36,412.26
+Iceland,Lamb & Goat,21.12,739.62
+Iceland,Fish,74.41,118.81
+Iceland,Eggs,8.24,7.57
+Iceland,Milk - inc. cheese,225.82,321.66
+Iceland,Wheat and Wheat Products,72.92,13.91
+Iceland,Rice,3.89,4.98
+Iceland,Soybeans,0.11,0.05
+Iceland,Nuts inc. Peanut Butter,3.88,6.87
+New Zealand,Pork,22.29,78.9
+New Zealand,Poultry,34.98,37.58
+New Zealand,Beef,22.49,693.99
+New Zealand,Lamb & Goat,18.91,662.23
+New Zealand,Fish,20.36,32.51
+New Zealand,Eggs,9.91,9.1
+New Zealand,Milk - inc. cheese,137.25,195.5
+New Zealand,Wheat and Wheat Products,76.91,14.67
+New Zealand,Rice,9.16,11.72
+New Zealand,Soybeans,0.44,0.2
+New Zealand,Nuts inc. Peanut Butter,8.22,14.55
+USA,Pork,27.64,97.83
+USA,Poultry,50.01,53.72
+USA,Beef,36.24,1118.29
+USA,Lamb & Goat,0.43,15.06
+USA,Fish,12.35,19.72
+USA,Eggs,14.58,13.39
+USA,Milk - inc. cheese,254.69,362.78
+USA,Wheat and Wheat Products,80.43,15.34
+USA,Rice,6.88,8.8
+USA,Soybeans,0.04,0.02
+USA,Nuts inc. Peanut Butter,7.86,13.91
+Uruguay,Pork,16.84,59.61
+Uruguay,Poultry,27.45,29.49
+Uruguay,Beef,29.1,897.96
+Uruguay,Lamb & Goat,8.23,288.21
+Uruguay,Fish,6.53,10.43
+Uruguay,Eggs,13.14,12.07
+Uruguay,Milk - inc. cheese,210.54,299.89
+Uruguay,Wheat and Wheat Products,109.31,20.85
+Uruguay,Rice,11.5,14.72
+Uruguay,Soybeans,0.01,0.0
+Uruguay,Nuts inc. Peanut Butter,0.95,1.68
+Luxembourg,Pork,43.58,154.25
+Luxembourg,Poultry,21.37,22.96
+Luxembourg,Beef,29.88,922.03
+Luxembourg,Lamb & Goat,1.67,58.48
+Luxembourg,Fish,23.09,36.87
+Luxembourg,Eggs,14.64,13.45
+Luxembourg,Milk - inc. cheese,255.3,363.65
+Luxembourg,Wheat and Wheat Products,103.2,19.68
+Luxembourg,Rice,4.2,5.37
+Luxembourg,Soybeans,0.04,0.02
+Luxembourg,Nuts inc. Peanut Butter,0.93,1.65
+Brazil,Pork,12.6,44.6
+Brazil,Poultry,45.0,48.34
+Brazil,Beef,39.25,1211.17
+Brazil,Lamb & Goat,0.62,21.71
+Brazil,Fish,10.01,15.98
+Brazil,Eggs,8.98,8.25
+Brazil,Milk - inc. cheese,149.28,212.63
+Brazil,Wheat and Wheat Products,53.0,10.11
+Brazil,Rice,32.13,41.12
+Brazil,Soybeans,3.62,1.63
+Brazil,Nuts inc. Peanut Butter,0.67,1.19
+Kazakhstan,Pork,10.36,36.67
+Kazakhstan,Poultry,18.38,19.74
+Kazakhstan,Beef,23.38,721.46
+Kazakhstan,Lamb & Goat,9.56,334.79
+Kazakhstan,Fish,5.21,8.32
+Kazakhstan,Eggs,8.29,7.62
+Kazakhstan,Milk - inc. cheese,288.12,410.4
+Kazakhstan,Wheat and Wheat Products,92.31,17.6
+Kazakhstan,Rice,7.32,9.37
+Kazakhstan,Soybeans,0.03,0.01
+Kazakhstan,Nuts inc. Peanut Butter,5.14,9.1
